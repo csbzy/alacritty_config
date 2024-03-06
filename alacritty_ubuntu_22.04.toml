@@ -47,7 +47,6 @@ foreground = "#44475a"
 background = "#50fa7b"
 
 [colors.search.focused_match]
-
 foreground = "#44475a"
 background = "#ffb86c"
 
@@ -57,15 +56,12 @@ background = "#282a36"
 foreground = "#f8f8f2"
 
 [colors.hints.start]
-
 foreground = "#282a36"
 background = "#f1fa8c"
 
 [colors.hints.end]
-
 foreground = "#f1fa8c"
 background = "#282a36"
-
 
 [bell]
 animation = "EaseOutExpo"
